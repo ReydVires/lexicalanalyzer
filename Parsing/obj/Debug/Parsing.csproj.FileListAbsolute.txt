@@ -1,0 +1,6 @@
+C:\Users\AhmadArsyel\Documents\SharpDevelop Projects\SimpleParser\Parsing\bin\Debug\Parsing.exe.config
+C:\Users\AhmadArsyel\Documents\SharpDevelop Projects\SimpleParser\Parsing\bin\Debug\Parsing.exe
+C:\Users\AhmadArsyel\Documents\SharpDevelop Projects\SimpleParser\Parsing\bin\Debug\Parsing.pdb
+C:\Users\AhmadArsyel\Documents\SharpDevelop Projects\SimpleParser\Parsing\obj\Debug\Parsing.csprojResolveAssemblyReference.cache
+C:\Users\AhmadArsyel\Documents\SharpDevelop Projects\SimpleParser\Parsing\obj\Debug\Parsing.exe
+C:\Users\AhmadArsyel\Documents\SharpDevelop Projects\SimpleParser\Parsing\obj\Debug\Parsing.pdb
