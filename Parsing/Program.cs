@@ -3,7 +3,7 @@
  * User: KELOMPOK 2 TBA (IF 40-06)
  * Date: 11/15/2017
  * Time: 10:22 AM  
- * Ahmad Arsyel Abdul Hakim
+ * Ahmad Arsyel
  * 
  */
 using System;
